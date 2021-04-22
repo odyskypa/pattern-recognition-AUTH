@@ -11,5 +11,4 @@ Execute scripts by the following order:
 5) FinalClassificationHigh: classifying the high codes data segment.
 6) ClusteringModelsComparison: comparing the clustering models. We run this script to decide which clustering algorithm to adopt.
 7) sse_diagram: plotting SSE for diffrenent values of k.
-
-6) and 7) are not necessary to run, in order to reach the final results.
+8) (6) and (7) are not necessary to run, in order to reach the final results.
