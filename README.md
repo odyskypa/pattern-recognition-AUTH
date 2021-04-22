@@ -13,4 +13,4 @@ Execute scripts by the following order:
 7) sse_diagram: plotting SSE for diffrenent values of k.
 8) (6) and (7) are not necessary to run, in order to reach the final results.
 
-In order to get the dataset on your hands contact me with e-mail.
+In order to get the dataset on your hands contact me by e-mail.
